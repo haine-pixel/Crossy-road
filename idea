@@ -1,0 +1,10 @@
+#TODO set up screen
+1.create turtle
+#TODO create cars crossing the screen
+1.create a list of cords for car to spawn
+2.while loop car spawn?
+#TODO when turtle hit the end of the screen
+1.level increase
+2.variable speed for car
+#TODO when turtle hits the car
+1.game end
